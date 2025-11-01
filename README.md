@@ -6,6 +6,8 @@ Add Gemini API key and ready to use
 
 ## Resources
 
+Session Recording: [Youtube](https://youtu.be/XG2sgZ-xNE8)
+
 Tokenizer: https://platform.openai.com/tokenizer
 
 Token Price Calculator: https://gptforwork.com/tools/openai-chatgpt-api-pricing-calculator
