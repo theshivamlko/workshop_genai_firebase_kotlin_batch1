@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TextSummarizer</string>
+    <string name="summarizer_title">Summarizer</string>
+    <string name="prompt_hint">Enter your prompt here...</string>
+    <string name="send">Send</string>
+    <string name="output_placeholder">Output here...</string>
+</resources>

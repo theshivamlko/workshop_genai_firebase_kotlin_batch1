@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MiniPerplexity</string>
+    <string name="error_format">Error: %1$s</string>
+</resources>
